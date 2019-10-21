@@ -1,0 +1,1 @@
+chrome.bookmarks.getTree((node)=>{console.log(node)});
